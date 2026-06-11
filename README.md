@@ -1,3 +1,5 @@
+<img width="986" height="739" alt="Screenshot 2026-06-11 at 8 57 10 PM" src="https://github.com/user-attachments/assets/d62d3f69-16e8-4a39-9715-6a9856c3f25e" />
+<img width="1001" height="753" alt="Screenshot 2026-06-11 at 8 57 28 PM" src="https://github.com/user-attachments/assets/432f611c-7f8f-467e-b796-9ec7ad2b4d52" />
 # 🌤️ Interactive Live Weather App
 
 ![Java](https://img.shields.io/badge/Java-Swing%20%26%20AWT-red)
